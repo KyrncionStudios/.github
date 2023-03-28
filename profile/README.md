@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="Banner.png">
+  <img src="Canada.png">
 </p>
