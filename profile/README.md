@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="600" height="200" src="Banner.png">
+  <img src="Banner.png">
 </p>
